@@ -1,0 +1,25 @@
+{
+  "accepted_volume": 13,
+  "rejected_requests": 1,
+  "remaining_capacity": 3,
+  "trace": [
+    {
+      "accepted": true,
+      "amount": 8,
+      "remaining_capacity": 2,
+      "timestamp": 0
+    },
+    {
+      "accepted": false,
+      "amount": 5,
+      "remaining_capacity": 4,
+      "timestamp": 1
+    },
+    {
+      "accepted": true,
+      "amount": 5,
+      "remaining_capacity": 3,
+      "timestamp": 3
+    }
+  ]
+}
